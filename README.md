@@ -24,7 +24,7 @@ El README sigue una estructura clara con enunciado, solución, procedimiento y c
 - **Justificación:** *Es matriz identidad porque los elementos de la diagonal son 1 y los demás elementos son 0.*  
 
 Matriz:
-$ \begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix} $
+$ \begin{pmatrix} 1 & 0 \\ 0 & 1 \end{pmatrix} $
 
 ---
 
