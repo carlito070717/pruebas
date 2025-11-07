@@ -1,1 +1,3 @@
-# pruebas
+# EJERCIO MATRICES
+
+## EJERCICIO 1 
