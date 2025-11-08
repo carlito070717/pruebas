@@ -100,7 +100,7 @@ $` A^T = \begin{bmatrix} 2 & 3 \\ -1 & 4 \end{bmatrix} `$
 
 ### Ejercicio 3 — Multiplicación en cadena (asociatividad)
 
-**Enunciado (Resumen):** Comprobar que $\((AB)C = A(BC)\)$ y mostrar procedimiento completo.
+## Enunciado (Resumen):** Comprobar que $\((AB)C = A(BC)\)$ y mostrar procedimiento completo.
 
 **Matrices:**
 
