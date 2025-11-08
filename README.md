@@ -58,7 +58,7 @@ $`\begin{bmatrix} 1 & 2 & 3 \\ 0 & 4 & 5 \\ 0 & 0 & 6 \end{bmatrix}`$
 
 ### Ejercicio 2 — Operaciones básicas
 
-
+## Enunciado: Resuelve los ejercicios que se presentan a continuación y deja documentados los procedimientos realizados.
 **Matrices:**
 
 $`\qquad A = \begin{bmatrix} 2 & -1 \\ 3 & 4 \end{bmatrix}`$
