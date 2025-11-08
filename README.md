@@ -15,10 +15,10 @@
 ## Ejercicios realizados
 
 ### Ejercicio 1 — Clasificar matrices
-##
+## Enunciado: Analizar y justificar el **tipo de matriz** que se presenta a continuación.
 
 ## Identificar Matriz
- ** Enunciado: Analizar y justificar el **tipo de matriz** que se presenta a continuación.
+ 
 #### Matriz 1
 - **Tipo:** Matriz identidad.  
 - **Justificación:** *Es matriz identidad porque los elementos de la diagonal son 1 y los demás elementos son 0.*  
