@@ -56,8 +56,6 @@ $`\begin{bmatrix} 1 & 2 & 3 \\ 0 & 4 & 5 \\ 0 & 0 & 6 \end{bmatrix}`$
 
 ### Ejercicio 2 — Operaciones básicas
 
-**Enunciado (Resumen):** Dados $\(A\)$ y $\(B\)$, calcular la suma, la combinación lineal $\(2A-B\)$, los productos $\(AB\)$ y $\(BA\)$, y la traspuesta $\(A^T\)$.  
-Mostrar procedimiento elemento a elemento para cada operación.
 
 **Matrices:**
 
